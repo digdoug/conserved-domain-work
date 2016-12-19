@@ -1,4 +1,4 @@
-# conserved-domain-work
+# Conserved Domain Work
 
 I made this in the Winter of 2016 at BYU.
 
